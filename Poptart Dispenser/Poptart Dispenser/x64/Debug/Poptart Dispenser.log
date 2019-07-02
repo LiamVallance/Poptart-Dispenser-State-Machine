@@ -1,0 +1,14 @@
+﻿Build started 01/07/2019 15:45:56.
+     1>Project "D:\Users\liamv\Documents\OneDrive - University of South Wales\Documents\Uni Work\Year 2\Data Structure Programming\Coursework\Poptart Dispenser\Poptart Dispenser\Poptart Dispenser.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt 14014610.cpp
+         14014610.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\liamv\Documents\OneDrive - University of South Wales\Documents\Uni Work\Year 2\Data Structure Programming\Coursework\Poptart Dispenser\x64\Debug\Poptart Dispenser.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\liamv\Documents\OneDrive - University of South Wales\Documents\Uni Work\Year 2\Data Structure Programming\Coursework\Poptart Dispenser\x64\Debug\Poptart Dispenser.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\liamv\Documents\OneDrive - University of South Wales\Documents\Uni Work\Year 2\Data Structure Programming\Coursework\Poptart Dispenser\x64\Debug\Poptart Dispenser.lib" /MACHINE:X64 x64\Debug\14014610.obj
+     1>MSVCRTD.lib(crtexe.obj) : error LNK2019: unresolved external symbol main referenced in function __tmainCRTStartup
+     1>D:\Users\liamv\Documents\OneDrive - University of South Wales\Documents\Uni Work\Year 2\Data Structure Programming\Coursework\Poptart Dispenser\x64\Debug\Poptart Dispenser.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "D:\Users\liamv\Documents\OneDrive - University of South Wales\Documents\Uni Work\Year 2\Data Structure Programming\Coursework\Poptart Dispenser\Poptart Dispenser\Poptart Dispenser.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.83
